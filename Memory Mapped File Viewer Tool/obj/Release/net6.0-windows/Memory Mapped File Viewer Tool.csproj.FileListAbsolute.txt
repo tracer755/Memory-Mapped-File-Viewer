@@ -1,0 +1,32 @@
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\Memory Mapped File Viewer Tool.exe
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\Memory Mapped File Viewer Tool.deps.json
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\Memory Mapped File Viewer Tool.runtimeconfig.json
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\Memory Mapped File Viewer Tool.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\Memory Mapped File Viewer Tool.pdb
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\Uno.Diagnostics.Eventing.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\Uno.Fonts.Fluent.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\Uno.Foundation.Logging.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\Uno.Foundation.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\Uno.UI.Composition.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\Uno.UI.Dispatching.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\Uno.UI.FluentTheme.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\Uno.UI.FluentTheme.v1.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\Uno.UI.FluentTheme.v2.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\Uno.UI.Toolkit.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\Uno.UI.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\Uno.Xaml.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\net6.0-windows\Uno.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\obj\Release\net6.0-windows\Memory Mapped File Viewer Tool.csproj.AssemblyReference.cache
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\obj\Release\net6.0-windows\Memory_Mapped_File_Viewer_Tool.Form1.resources
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\obj\Release\net6.0-windows\Memory Mapped File Viewer Tool.csproj.GenerateResource.cache
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\obj\Release\net6.0-windows\Memory Mapped File Viewer Tool.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\obj\Release\net6.0-windows\Memory Mapped File Viewer Tool.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\obj\Release\net6.0-windows\Memory Mapped File Viewer Tool.AssemblyInfo.cs
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\obj\Release\net6.0-windows\Memory Mapped File Viewer Tool.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\obj\Release\net6.0-windows\Memory Mapped File Viewer Tool.csproj.CopyComplete
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\obj\Release\net6.0-windows\Memory Mapped File Viewer Tool.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\obj\Release\net6.0-windows\refint\Memory Mapped File Viewer Tool.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\obj\Release\net6.0-windows\Memory Mapped File Viewer Tool.pdb
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\obj\Release\net6.0-windows\Memory Mapped File Viewer Tool.genruntimeconfig.cache
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\obj\Release\net6.0-windows\ref\Memory Mapped File Viewer Tool.dll

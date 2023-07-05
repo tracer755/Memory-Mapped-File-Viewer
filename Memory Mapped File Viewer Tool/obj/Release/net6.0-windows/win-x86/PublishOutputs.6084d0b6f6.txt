@@ -1,0 +1,7 @@
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\publish\net6.0-windows\Memory Mapped File Viewer Tool.pdb
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\publish\net6.0-windows\D3DCompiler_47_cor3.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\publish\net6.0-windows\PenImc_cor3.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\publish\net6.0-windows\PresentationNative_cor3.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\publish\net6.0-windows\vcruntime140_cor3.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\publish\net6.0-windows\wpfgfx_cor3.dll
+C:\Users\Jason\source\repos\Memory Mapped File Viewer Tool\Memory Mapped File Viewer Tool\bin\Release\publish\net6.0-windows\Memory Mapped File Viewer Tool.exe
