@@ -1,5 +1,5 @@
 # Memory-Mapped-File-Viewer
-A tool to read a memory mapped file
+A tool to read and view a memory mapped file
 <br />
 <br />
 <img width="597" alt="Screenshot 2023-07-05 020027" src="https://github.com/tracer755/Memory-Mapped-File-Viewer/assets/44651512/38075c1d-f027-492a-b504-c80682bc1547">
